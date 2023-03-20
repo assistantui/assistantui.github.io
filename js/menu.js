@@ -12,7 +12,7 @@ document.write ("<div class='top'>");
     document.write ("<div class='logo'><a href='index.html'><img src='images/logo.png' width='230' height='73' alt='采药郎' title='采药郎' /></a></div>");
     document.write ("<div class='date'>");
         document.write ("<div class='time'><a href='#'>7月25日 周五六月廿九</a></div>");
-        document.write ("<div class='weather'><iframe width='455' scrolling='no' height='75' frameborder='0' allowtransparency='true' src='http://i.tianqi.com/index.php?c=code&id=38&icon=1&num=2&align=left'></iframe></div>");
+        document.write ("<div class='weather'><iframe width='455' scrolling='no' height='75' frameborder='0' allowtransparency='true' src='https://i.tianqi.com/index.php?c=code&id=38&icon=1&num=2&align=left'></iframe></div>");
         document.write ("<a href='#'><div class='adv1'><img src='images/guanggao1.jpg' width='178' height='55' alt='采药郎' title='采药郎' /></div></a>");
     document.write ("</div>");
 document.write ("</div>");

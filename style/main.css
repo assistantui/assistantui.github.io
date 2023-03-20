@@ -185,7 +185,7 @@ div.slider-nav span.left{background:url(../images/left.png);left:0; }
 .right1{ overflow:hidden; border-top:solid #cecece 1px; /*009b4d*/  border-right:solid #cecece 1px; border-bottom:solid #cecece 1px; border-left:solid #cecece 1px; background:#fff; }
 .right1 .gold1 { overflow:hidden; margin:8px 0 10px 5px; background:url(../images/fengexian1.jpg) no-repeat bottom; padding-bottom:10px; }
 .right1 .gold1 li { font-size:14px; width:100px; float:left; margin:0 10px 0 11px; text-indent:inherit; }
-.right1 .gold1 li a { background:url(http://s0.hao123img.com/res/img/defaultIcon0708.png) no-repeat  0px -199px ; line-height:30px; padding:3px 0 0 23px; }
+.right1 .gold1 li a { background:url(../images/defaultIcon0708.png) no-repeat  0px -199px ; line-height:30px; padding:3px 0 0 23px; }
 .right1 .gold2 { overflow:hidden; margin:8px 0 5px 5px;}
 .right1 .gold2 li { font-size:14px; width:100px; float:left; margin:0 10px 0 11px; line-height:30px;}
 .right1 .gold2 li span{ color:#f08300; }
