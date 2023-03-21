@@ -1,0 +1,40 @@
+/* 设置整体背景颜色为白色 */
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* 设置标题为黑色，居中对齐，字号为36px */
+  h1 {
+    color: black;
+    text-align: center;
+    font-size: 36px;
+  }
+  
+  /* 设置文章内容为灰色，左对齐，字号为18px */
+  p {
+    color: #333333;
+    text-align: left;
+    font-size: 18px;
+  }
+  
+  /* 设置代码块为浅灰色背景，黑色字体，等宽字体 */
+  pre {
+    background-color: #f0f0f0;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  /* 设置超链接为深蓝色，无下划线 */
+  a {
+    color: #003366;
+    text-decoration: none;
+  }
+
+  /* 设置object元素的宽度为100% */
+object {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+  }
